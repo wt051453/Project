@@ -1,0 +1,11 @@
+/Users/weimingtan/Projects/Exercise/Exercise/bin/Debug/netcoreapp2.1/Exercise.deps.json
+/Users/weimingtan/Projects/Exercise/Exercise/bin/Debug/netcoreapp2.1/Exercise.runtimeconfig.json
+/Users/weimingtan/Projects/Exercise/Exercise/bin/Debug/netcoreapp2.1/Exercise.runtimeconfig.dev.json
+/Users/weimingtan/Projects/Exercise/Exercise/bin/Debug/netcoreapp2.1/Exercise.dll
+/Users/weimingtan/Projects/Exercise/Exercise/bin/Debug/netcoreapp2.1/Exercise.pdb
+/Users/weimingtan/Projects/Exercise/Exercise/obj/Debug/netcoreapp2.1/Exercise.csprojAssemblyReference.cache
+/Users/weimingtan/Projects/Exercise/Exercise/obj/Debug/netcoreapp2.1/Exercise.csproj.CoreCompileInputs.cache
+/Users/weimingtan/Projects/Exercise/Exercise/obj/Debug/netcoreapp2.1/Exercise.AssemblyInfoInputs.cache
+/Users/weimingtan/Projects/Exercise/Exercise/obj/Debug/netcoreapp2.1/Exercise.AssemblyInfo.cs
+/Users/weimingtan/Projects/Exercise/Exercise/obj/Debug/netcoreapp2.1/Exercise.dll
+/Users/weimingtan/Projects/Exercise/Exercise/obj/Debug/netcoreapp2.1/Exercise.pdb
